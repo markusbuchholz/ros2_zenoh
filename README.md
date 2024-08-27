@@ -1,1 +1,1 @@
-# ros2_zenoh
+# ROS 2 with Zenoh RMW implementation
