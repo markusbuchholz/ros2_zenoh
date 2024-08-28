@@ -44,3 +44,4 @@ sudo ./run.sh
 
 - [zenoh-plugin](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds)
 - [Zenoh documentation](https://zenoh.io/)
+- [No more broken comms!](https://www.youtube.com/watch?v=fS0_rbQ6KKA&t=2s)
