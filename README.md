@@ -45,3 +45,4 @@ sudo ./run.sh
 - [zenoh-plugin](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds)
 - [Zenoh documentation](https://zenoh.io/)
 - [No more broken comms!](https://www.youtube.com/watch?v=fS0_rbQ6KKA&t=2s)
+- [Comparison of DDS, MQTT, and Zenoh in Edge-to-Edge and Edge-to-Cloud Communication for Distributed ROS 2 Systems](https://arxiv.org/abs/2309.07496)
